@@ -1,0 +1,10 @@
+Los pasos para crear un repositorio remoto son:
+1. Situarse en la ruta del archivo que se quiere vincular, con los comandos:
+	"ls", "cd"
+2. Cambiar a rama principal, con el comando:
+	"git checkout -b main"
+3. Ahora situarse en la rama principal, con el comando:
+	"git branch", el resultado debe dar "*main"
+4. Escribir git pull origin main, que es el comando con el que se va vincular el repositorio, con el comando:
+	"git pull origin main"
+5. LISTO :)
